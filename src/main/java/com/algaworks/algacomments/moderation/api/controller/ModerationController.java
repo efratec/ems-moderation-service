@@ -1,7 +1,6 @@
 package com.algaworks.algacomments.moderation.api.controller;
 
 import com.algaworks.algacomments.moderation.api.model.CommentInput;
-import com.algaworks.algacomments.moderation.api.model.ModerationInput;
 import com.algaworks.algacomments.moderation.api.model.ModerationOutput;
 import com.algaworks.algacomments.moderation.domain.service.ModerationService;
 import lombok.RequiredArgsConstructor;
