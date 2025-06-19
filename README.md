@@ -1,2 +1,2 @@
-# ems-monitoration-service
-ems-monitoration-service
+# ems-moderation-service
+moderation-service
